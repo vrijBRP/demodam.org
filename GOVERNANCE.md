@@ -1,4 +1,4 @@
-# Governance for Demodam
+# DRAFT: Governance for Demodam
 
 ## Goals of Demodam
 
