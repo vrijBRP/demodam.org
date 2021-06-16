@@ -14,7 +14,9 @@ Feel free to blog, tweet, post about Demodam whenever you like! We're in this to
 
 ## Take part in an action team
 
-The Demodam codebase forms action teams to solve specific tasks. These can make day to day decisions to move things forward, but cannot overrule decisions made by the steering team. Each action team must be represented in the steering group by at least one person (as a linking pin). If a team cannot resolve an issue with consensus in the group, any participant of the group can raise the issue to the steering team. Action teams have the mandate to take action whenever they think it helps Demodam and work on an "ask for forgiveness, not for permission" basis for now.
+The Demodam codebase forms action teams to solve specific tasks. Each team has a team lead that is responsible for setting dates for meetings of the team and for (collaboratively) setting the agenda. The team lead is also a first point of contact for the team. 
+
+These teams can make day to day decisions to move things forward, but cannot overrule decisions made by the steering team. Each action team must be represented in the steering group by at least one person (as a linking pin). Usually that person is the team lead. If a team cannot resolve an issue with consensus in the group, any participant of the group can raise the issue to the steering team. Action teams have the mandate to take action whenever they think it helps Demodam and work on an "ask for forgiveness, not for permission" basis for now. So be bold! And have fun 🦖. 
 
 ### Communications action team
 Open group that works in a community style (there is likely to be a core team, that guides a wider community of participants and ambassadors). See the [Communications Project Board](https://github.com/demodam/demodam.org/projects/1) for the current activities (and please take part!). 
