@@ -49,7 +49,7 @@ If steering team members cannot reach consensus informally, the question at hand
 The current steering team members are:
 * [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/)  (steering team lead)
 * [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (also [Technical Action Team](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#technical-action-team) lead)
-* [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team]https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#communications-action-team) lead) 
+* [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#communications-action-team) lead) 
 * [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
 * Vacancy: representative from a government organization
 * Vacancy: [User Centricity](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#user-centricity-action-team) team lead
