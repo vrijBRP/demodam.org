@@ -17,7 +17,7 @@
 Through codebase stewardship the [Foundation for Public Code](https://publiccode.net/) supports the governance of Demodam, the steering team, and its community.
 
 ## Join Demodam! 
-So, convinced already, are you? Excellent. Please join us! Find out [how you can join and contribute](https://github.com/demodam/demodam.org/blob/main/GOVERNANCE.md).
+So, convinced already, are you? Excellent. Please join us! Find out [how you can join and contribute](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD).
 
 ## Demodam steering team
 
