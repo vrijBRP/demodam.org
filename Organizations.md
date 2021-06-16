@@ -35,10 +35,10 @@ The subdomain will be referred to the demodam haven environment, any overview pa
 The technical steering group points out that al support is provides on an “best effort” basis without any guaranties, it also reserves the right to remove any organizations namespace, installations, subdomain or other resources without prior notification if it deems that said resources either form an security or operational threat to the demodam haven environment.
 
 ## Flow of application
--Submission of applications issue
--Checks and acceptance by technical action group
--Creation of subdomain and namespace
--Handover of subdomain and kubeconfig file to aplaying organization
+- Submission of applications issue
+- Checks and acceptance by technical action group
+- Creation of subdomain and namespace
+- Handover of subdomain and kubeconfig file to aplaying organization
 
 ## Criteria of acceptance by technical steering group
 - Name should be unique
