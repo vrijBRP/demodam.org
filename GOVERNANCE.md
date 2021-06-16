@@ -16,6 +16,9 @@
 
 Through codebase stewardship the [Foundation for Public Code](https://publiccode.net/) supports the governance of Demodam, the steering team, and its community.
 
+## Join Demodam! 
+So, convinced already, are you? Excellent. Please join us! Find out [how you can join and contribute](https://github.com/demodam/demodam.org/blob/main/GOVERNANCE.md).
+
 ## Demodam steering team
 
 The Demodam steering team **oversees the overall direction** of Demodam. Any active member of the community can request to become a steering team member by asking the steering team. The steering team will vote on it (simple majority). The steering team strives to be a team in which several perspectives (knowledge, type of organizations) are represented. 
@@ -55,7 +58,7 @@ The current steering team members are:
 * Vacancy: [User Centricity](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#user-centricity-action-team) team lead
 
 ### Way of working
-The steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda should be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). The action items and agenda's of the steering team can be found on the [steering team project board](https://github.com/demodam/demodam.org/projects/2). 
+The steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda will be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). The action items and agenda's of the steering team can be found on the [steering team project board](https://github.com/demodam/demodam.org/projects/2). 
 
 No individual or organization will employ a simple majority of the steering team.
 
