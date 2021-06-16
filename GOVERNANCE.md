@@ -27,7 +27,7 @@ If steering team members cannot reach consensus informally, the question at hand
 * Maintaining the **mission, vision, values, strategy, roadmap, branding and scope** of the project
    * Collecting planned features and presenting them in a unified view
    * Manage the Demodam brand
-* *Community and governance matters**
+* **Community and governance matters**
    * Control rights to Demodam assets such as source repositories
    * Make codebase level decisions
    * Refine the governance as needed
