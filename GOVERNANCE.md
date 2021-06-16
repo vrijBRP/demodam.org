@@ -55,7 +55,7 @@ The current steering team members are:
 * Vacancy: [User Centricity](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#user-centricity-action-team) team lead
 
 ### Way of working
-The steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda should be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4).
+The steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda should be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). The action items and agenda's of the steering team can be found on the [steering team project board](https://github.com/demodam/demodam.org/projects/2). 
 
 No individual or organization will employ a simple majority of the steering team.
 
