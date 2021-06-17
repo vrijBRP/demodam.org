@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `OpenZaak`,
-    description: `OpenZaak is an open-source case register platform for municipalites who want to deliver citizen-friendly services online.`,
-    author: `The OpenZaak Community`,
-    repositoryUrl: `https://github.com/open-zaak/`,
+    title: `Demodam`,
+    description: `Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities. This website hosts the community governance and demodam information.`,
+    author: `The Demodam Community`,
+    repositoryUrl: `https://github.com/demodam/demodam.org/`,
     slackUrl: `https://samenorganiseren.slack.com/archives/CT6UH711Q`,
     languages: ['en' ,'nl'],
     defaultLanguage: 'nl'
