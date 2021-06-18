@@ -32,10 +32,10 @@
     }
   ],
   "en": [
-    "title": "News",
     {
-      "link": "/en/news/",
-      "partiallyActive": false
+    "title": "News",
+    "link": "/en/news/",
+    "partiallyActive": false
     },
     {
       "title": "Join Demodam",

@@ -1,7 +1,7 @@
 {
-  "name": "@openzaak/openzaak-website",
+  "name": "@demodam/demodam.org/",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "@commonground/design-system": "12.5.0",
     "formik": "2.1.4",
