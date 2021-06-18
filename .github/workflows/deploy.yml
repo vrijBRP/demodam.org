@@ -6,6 +6,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GATSBY_TELEMETRY_DISABLED: 1
     steps:
       - uses: actions/checkout@v1
 
@@ -13,5 +15,4 @@ jobs:
         with:
           deploy-branch: main
 #          gatsby-args: --prefix-paths
-          gatsby-args: "telemetry --disable"
           access-token: ${{ secrets.ACCESS_TOKEN }}
