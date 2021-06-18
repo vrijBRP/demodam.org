@@ -38,7 +38,7 @@ const RoadmapPage = ({ location }) => (
     </Background>
     <Container>
       <Section>
-          Heeft u ideeën over de toekomstige ontwikkeling van OpenZaak of mis je bepaalde functionaliteit? Kijk op de <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
+          Heeft u ideeën over de toekomstige ontwikkeling van Demodam of mis je bepaalde functionaliteit? Kijk op de <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
       </Section>
     </Container>
     <Container>
@@ -46,7 +46,7 @@ const RoadmapPage = ({ location }) => (
       <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q3 - 2019</Span>
-            <Heading as="h3" fontSize="1.5rem">Start implementatie</Heading>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 1</Heading>
             <p></p>
             <ResponsiveImage src={startOntwikkeling} />
           </Timeline.Content>
@@ -54,7 +54,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 - 2019</Span>
-            <Heading as="h3" fontSize="1.5rem">Inzicht verkrijgen en rapportage, performance</Heading>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 2</Heading>
             <p></p>
             <ResponsiveImage src={startInitiatief} />
           </Timeline.Content>
@@ -62,7 +62,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q1 - 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Oplevering OpenZaak</Heading>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 3</Heading>
             <p></p>
             <ResponsiveImage src={connectingTeams} />
           </Timeline.Content>
@@ -70,7 +70,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q2 - 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Marktconsultatie OpenZaak en workshops</Heading>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 4</Heading>
             <p></p>
             <ResponsiveImage src={sprint} />
           </Timeline.Content>
@@ -78,7 +78,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q3 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Vormgeven technische en product stuurgroepen</Heading>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 5</Heading>
             <p></p>
             <ResponsiveImage src={communityImg} />
           </Timeline.Content>
@@ -86,15 +86,15 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 -2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Roadmap</Heading>
-            <p>De start richting één integrale functionele roadmap. De roadmap laat zien waar OpenZaak heen gaat en bevat features die voor iedere gemeente waardevol zijn.</p>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 6</Heading>
+            <p>Lorem ipsum.</p>
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">2021</Span>
-            <Heading as="h3" fontSize="1.5rem">Opschalen & doorontwikkelen</Heading>
-            <p>Opschalen van OpenZaak bij Nederlandse gemeenten.</p>
+            <Heading as="h3" fontSize="1.5rem">Mijlpaal 7</Heading>
+            <p>Lorem ipsum.</p>
             <ResponsiveImage src={doorontwikkeling} />
           </Timeline.Content>
         </Timeline.Container>

@@ -123,9 +123,9 @@ const IndexPage = ({ location }) => (
       <Timeline>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">Q4 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Ready for production</Heading>
-            <p>Delivery of a municipal neutral version of the OpenZaak software. OpenZaak is ready for production for the municipal participants from the Kopgroep.</p>
+            <Span fontSize="0.9rem">June 2021</Span>
+            <Heading as="h3" fontSize="1.5rem">Kick-off Demodam</Heading>
+            <p>Launch of Demodam</p>
           </Timeline.Content>
         </Timeline.Container>
       </Timeline>

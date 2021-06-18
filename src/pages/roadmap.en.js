@@ -38,7 +38,7 @@ const RoadmapPage = ({ location }) => (
     </Background>
     <Container>
       <Section>
-          Do you have any ideas about the future development of OpenZaak or do you miss certain functionality? Take a look at the <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
+          Do you have any ideas about the future development of Demodam or do you miss certain functionality? Take a look at the <a href="https://github.com/orgs/open-zaak/projects/2">feature request backlog</a>.
       </Section>
     </Container>
     <Container>
@@ -46,7 +46,7 @@ const RoadmapPage = ({ location }) => (
       <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q3 - 2019</Span>
-            <Heading as="h3" fontSize="1.5rem">Start OpenZaak implementation</Heading>
+            <Heading as="h3" fontSize="1.5rem">Milestone</Heading>
             <p></p>
             <ResponsiveImage src={startOntwikkeling} />
           </Timeline.Content>
@@ -54,7 +54,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 - 2019</Span>
-            <Heading as="h3" fontSize="1.5rem">Insight and reporting, performance</Heading>
+            <Heading as="h3" fontSize="1.5rem">Milestone</Heading>
             <p></p>
             <ResponsiveImage src={startInitiatief} />
           </Timeline.Content>
@@ -62,7 +62,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q1 - 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Delivery of OpenZaak</Heading>
+            <Heading as="h3" fontSize="1.5rem">Milestone</Heading>
             <p></p>
             <ResponsiveImage src={connectingTeams} />
           </Timeline.Content>
@@ -70,7 +70,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q2 - 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Market Consultation and workshops</Heading>
+            <Heading as="h3" fontSize="1.5rem">Milestone</Heading>
             <p></p>
             <ResponsiveImage src={sprint} />
           </Timeline.Content>
@@ -78,7 +78,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q3 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Design technical and product steering groups</Heading>
+            <Heading as="h3" fontSize="1.5rem">Milestone</Heading>
             <p></p>
             <ResponsiveImage src={communityImg} />
           </Timeline.Content>
@@ -87,14 +87,14 @@ const RoadmapPage = ({ location }) => (
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 -2020</Span>
             <Heading as="h3" fontSize="1.5rem">Roadmap</Heading>
-            <p>First steps towards a funcional integrated roadmap. The roadmap shows where OpenZaak is going and contains features that are valuable for every municipality.</p>
+            <p>Milestone</p>
           </Timeline.Content>
         </Timeline.Container>
         <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">2021</Span>
-            <Heading as="h3" fontSize="1.5rem">Scaling up & further development</Heading>
-            <p>Scaling up OpenZaak at Dutch municipalities.</p>
+            <Heading as="h3" fontSize="1.5rem">Milestone</Heading>
+            <p>Lorem ipsum</p>
             <ResponsiveImage src={doorontwikkeling} />
           </Timeline.Content>
         </Timeline.Container>
