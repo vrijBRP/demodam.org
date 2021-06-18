@@ -57,8 +57,8 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document" />
           </Box>
           <Box width={3/5}>
-            <h2>Zaken, Besluiten, Documenten en Open Notificaties</h2>
-            <p>OpenZaak implementeert de <a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a> en combineert deze met een gebruiksvriendelijke beheerinterface. Door gebruik te maken van de Open Notificaties standaard kunnen updates van zaken gepubliceerd worden naar andere systemen, zodat die systemen wijzigingen in (de status van) de zaak kunnen volgen.</p>
+            <h2>TODO: Demodam value/benefit statement 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
@@ -66,8 +66,8 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Catalogi & gemeentelijke selectielijsten</h2>
-            <p>OpenZaak bevat een beheerinterface voor catalogi en gemeentelijke selectielijsten. Zo kunt u gebruiken maken van standaard instellingen voor archivering van zaakgerichte gegevens bij het implementeren van uw proces en waar nodig deze aanpassen of aanvullen.</p>
+            <h2>TODO: Demodam value/benefit statement 2</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist" />
@@ -81,8 +81,8 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
           </Box>
           <Box width={3/5}>
-            <h2>Autorisatie & Beheer</h2>
-            <p> OpenZaak bevat autorisatie module waarmee u gecontroleerd toegang tot de Zaakgericht werken API's kunt beheren en monitoren. Zo heeft u een centraal overzicht welke applicaties toegang hebben tot welke API’s en data. </p>
+            <h2>TODO: Demodam value/benefit statement 3</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
@@ -90,8 +90,8 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>API Dashboard</h2>
-            <p>OpenZaak bevat een API dashboard dat inzicht geeft in het gebruik van OpenZaak. Zo krijgt u inzicht met welke frequentie en volume gegevens in OpenZaak worden geraadpleegd. Dit kan helpen bij het bijsturen en prioriteren bij het afhandelen van zaken.</p>
+            <h2>TODO: Demodam value/benefit statement 4</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
@@ -105,8 +105,8 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
           </Box>
           <Box width={3/5}>
-            <h2>Syteem integraties</h2>
-            <p>Omdat OpenZaak open source is kunnen leveranciers systeemintegraties met OpenZaak ontwikkelen voor hun document en content management systemen. Zo heeft u de vrijheid om gebruik te maken van bestaande of nieuwe applicaties in combinatie met OpenZaak. OpenZaak koppelt onder andere met Contezza DMS en Alfresco.</p>
+            <h2>TODO: Demodam value/benefit statement 5</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>

@@ -54,11 +54,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={casesImage} alt="Illustration of person with a pen" />
+            <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document" />
           </Box>
           <Box width={3/5}>
-            <h2>Cases, Decisions, Documents and Open Notifications</h2>
-            <p>OpenZaak implements the < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a> and combines them with a user-friendly management interface. By using the open notifications standard, updates on citizens cases can be published to different systems. In this way, every system is automatically informed about the status of a case.</p>
+            <h2>TODO: Demodam value/benefit statement 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
@@ -66,11 +66,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Catalog & municipal selection lists</h2>
-            <p>OpenZaak includes a management interface for catalogs and municipal selection lists. For example, you can use standard selection lists when implementing your business process and adjust or supplement them where necessary.</p>
+            <h2>TODO: Demodam value/benefit statement 2</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={selectionImage} alt="Illustration of robot" />
+            <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist" />
           </Box>
         </Flex>
       </Section>
@@ -78,11 +78,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={authorizationImage} alt="Illustraton of person in work clothes" />
+            <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
           </Box>
           <Box width={3/5}>
-            <h2>Authorization & Access management</h2>
-            <p>OpenZaak includes an authorization module which helps you manage and monitor controlled access to the OpenZaak APIs. This gives you a central overview of which applications have access to which APIs and data.</p>
+            <h2>TODO: Demodam value/benefit statement 3</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
@@ -90,11 +90,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>API Dashboard</h2>
-            <p>OpenZaak includes an API dashboard that provides insight into the use of OpenZaak. This will give you a better insight into the usage of OpenZaak. This can help adjust and prioritize the handling of cases.</p>
+            <h2>TODO: Demodam value/benefit statement 4</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={dashboardImage} alt="Illustration of person with tablet showing graphs" />
+            <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
           </Box>
         </Flex>
       </Section>
@@ -102,11 +102,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Illustration of person with tablet showing graphs" />
+            <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
           </Box>
           <Box width={3/5}>
-            <h2>Sytem integrations</h2>
-            <p>Because OpenZaak is open source, suppliers can develop OpenZaak system integrations for their document and content management systems. This gives you the freedom to use existing or new applications in combination with OpenZaak. OpenZaak integrates with Contezza DMS and Alfresco, among others.</p>
+            <h2>TODO: Demodam value/benefit statement 5</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
