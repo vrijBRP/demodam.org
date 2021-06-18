@@ -17,7 +17,7 @@ const IndexPage = ({
 
 }) => (
   <Layout>
-    <SEO title="OpenZaak - Laatste nieuws" />
+    <SEO title="Demodam - Nieuws" />
     <Background backgroundColor="#178be9">
       <Container>
         <Navigation as="nav" location={location} />
