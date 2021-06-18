@@ -24,7 +24,7 @@ import startInitiatief from '../images/start-initiatief.svg'
 const RoadmapPage = ({ location }) => (
   <Layout>
     <SEO title="Roadmap" />
-    <Background backgroundColor="#178be9">
+    <Background backgroundColor="#ffffff">
     <Container>
       <Navigation as="nav" location={location} />
     </Container>

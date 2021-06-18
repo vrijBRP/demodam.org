@@ -25,7 +25,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities." />
-    <Background backgroundColor="#178be9">
+    <Background backgroundColor="#cbce1c">
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
@@ -33,13 +33,13 @@ const IndexPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
-    <Background backgroundColor="#178be9">
+    <Background backgroundColor="#000000">
       <Container>
         <Logos />
       </Container>
     </Background>
     <Container>
-      <Section id="about-openzaak">
+      <Section id="about-demodam">
         <Flex>
           <Box>
           <p>Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities. On Demodam.nl you will soon be able to see which Common Ground components (building blocks) behind those services are ready and how they work together. Municipalities can then decide to use such a service, for example an application for online birth registration, for their residents. It is also possible to build on top of what is already available by both suppliers and municipalities.</p>

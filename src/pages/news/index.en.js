@@ -18,7 +18,7 @@ const IndexPage = ({
 }) => (
   <Layout>
     <SEO title="Demodam - News" />
-    <Background backgroundColor="#178be9">
+    <Background backgroundColor="#cbce1c">
       <Container>
         <Navigation as="nav" location={location} />
       </Container>
