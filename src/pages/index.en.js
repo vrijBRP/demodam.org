@@ -48,7 +48,7 @@ const IndexPage = ({ location }) => (
       </Section>
 
       <Section textAlign="center">
-        <iframe title="Demo usage OpenZaak" src="https://player.vimeo.com/video/389842983" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jTK-sbee2qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </Section>
 
       <Section>
