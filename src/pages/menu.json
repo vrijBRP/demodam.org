@@ -6,18 +6,23 @@
       "partiallyActive": false
     },
     {
-      "title": "OpenZaak gebruiken",
-      "link": "/using-openzaak",
+      "title": "Sluit je aan",
+      "link": "/join",
       "partiallyActive": true
     },
     {
-      "title": "Roadmap",
-      "link": "/roadmap",
+      "title": "Organisaties",
+      "link": "/organizations",
       "partiallyActive": false
     },
     {
-      "title": "Community",
-      "link": "/community",
+      "title": "Ambassadeurs",
+      "link": "/ambassadors",
+      "partiallyActive": true
+    },
+    {
+      "title": "Governance",
+      "link": "/governance",
       "partiallyActive": true
     },
     {
@@ -27,24 +32,29 @@
     }
   ],
   "en": [
+    "title": "News",
     {
-      "title": "News",
       "link": "/en/news/",
       "partiallyActive": false
     },
     {
-      "title": "Using OpenZaak",
-      "link": "/en/using-openzaak",
+      "title": "Join Demodam",
+      "link": "/en/join",
       "partiallyActive": true
     },
     {
-      "title": "Roadmap",
-      "link": "/en/roadmap",
+      "title": "Organizations",
+      "link": "/en/organizations",
       "partiallyActive": false
     },
     {
-      "title": "Community",
-      "link": "/en/community",
+      "title": "Ambassadors",
+      "link": "/en/ambassadors",
+      "partiallyActive": true
+    },
+    {
+      "title": "Governance",
+      "link": "/en/governance",
       "partiallyActive": true
     },
     {
