@@ -20,7 +20,7 @@ For questions: <info@publiccode.net>
 ## Getting started
 
 [![Test](https://github.com/demodam/demodam.org/actions/workflows/test.yml/badge.svg)](https://github.com/demodam/demodam.org/actions/workflows/test.yml)
-![Deploy website](https://github.com/open-zaak/open-zaak-website/workflows/Deploy%20website/badge.svg)
+[![Deploy Demo website](https://github.com/demodam/demodam.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/demodam/demodam.org/actions/workflows/deploy.yml)
 
 The website code is a copy of the [Signalen website repository](https://github.com/Signalen/signalen.org), built by the [authors and contributors](AUTHORS.md) within the Signalen community.
 
