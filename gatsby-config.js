@@ -32,15 +32,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-plausible`,
       options: {
-        domain: `openzaak.org`,
+        domain: `demodam.org`,
         },
     },
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `OpenZaak`,
-        short_name: `openzaak`,
+        name: `Demodam`,
+        short_name: `demodam`,
         start_url: `/`,
         display: `standalone`,
         icon: `src/images/openzaaklogo.svg`,
