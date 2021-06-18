@@ -13,5 +13,5 @@ jobs:
         with:
           deploy-branch: main
 #          gatsby-args: --prefix-paths
-          gatsby-args: telemetry --disable
+          gatsby-args: "telemetry --disable"
           access-token: ${{ secrets.ACCESS_TOKEN }}
