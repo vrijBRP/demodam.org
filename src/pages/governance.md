@@ -2,46 +2,70 @@
 template: "default"
 ---
 
-## OpenZaak gebruiken
+# ONTWERP: Governance voor Demodam
 
-OpenZaak is sinds begin 2020 beschikbaar voor gemeenten en ontwikkelaars in Nederland.
+## Doelen van Demodam
 
-Wilt u meer weten over hoe u OpenZaak in uw gemeente kunt gaan gebruiken?
+* **Showcase.** Demodam toont werkende digitale diensten die gemeenten (en mogelijk andere overheidsorganisaties) kunnen hergebruiken.
+* **Samenwerken.** Op Demodam leren we hoe we samenwerken in het [Common Ground](https://commonground.nl/) ecosysteem. Dit gebeurt zowel op systeemniveau (hoe werken componenten op elkaar in?) als op menselijk niveau (hoe werken we samen?).
+* **Verbeteren.** Samen de norm stellen: wanneer zeggen we dat een onderdeel productierijp is?
+* **Innoveer.** Door een stabiele en rijke softwareomgeving aan te bieden, wordt het makkelijker om nieuwe digitale diensten te ontwikkelen.
 
-* Bekijk [deze OpenZaak demo video](https://player.vimeo.com/video/389842983?app_id=122963) of [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
-* [Installeer OpenZaak op uw lokale computer of cloud  omgeving](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
-* Neem [contact](/contact/)  met ons op voor een (online) demo van OpenZaak.
+## Demodam-principes
 
-## Voor ontwikkelaars
+* Onze community is **gastvrij en respectvol** zoals vermeld in onze CODE_OF_CONDUCT.md. Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
+* Wij zijn **Transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten (bijvoorbeeld niveau, betrokkenheid, etc.) worden openbaar gedaan.
+* Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen, reikwijdte en ontwerpprincipes.
+* Demodam is **open source**.
 
-OpenZaak is een open source API provisioning backend.
+Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het bestuur van Demodam, het stuurteam en zijn gemeenschap.
 
-OpenZaak implementeert de landelijke API-standaarden voor zaakgericht werken ([ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken)) ontwikkeld in opdracht van de Nederlandse Vereniging van Gemeenten ([VNG Realisatie](https://www.vngrealisatie.nl)).
+## Sluit je aan bij Demodam!
+Dus, al overtuigd, bent u? Uitstekend. Kom alsjeblieft bij ons! Ontdek [hoe u kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD).
 
-Om het meeste uit OpenZaak te halen, moet OpenZaak verbinding maken met andere systemen of componenten. Voornamelijk systemen voor het afhandelen van het proces zoals een app voor een melding openbare ruimte, een processysteem voor het afhandelen van vergunningen of een generiek zaakafhandelcomponent. Voorbeelden van dergelijke systemen zijn MyApp of apps voor MOR-rapporten.
+## Demodam stuurgroep
 
-OpenZaak bestaat uit een backend (opslag en opvragen) en API (service) provisioning-laag (autorisatie en authenticatie) voor de [ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken).
+Het stuurteam van Demodam **houdt toezicht op de algehele richting** van Demodam. Elk actief lid van de community kan een verzoek indienen om lid van het stuurteam te worden door het stuurteam te vragen. De stuurgroep stemt hierover (gewone meerderheid). De stuurgroep streeft ernaar een team te zijn waarin meerdere perspectieven (kennis, type organisaties) vertegenwoordigd zijn.
 
-OpenZaak wordt als open source project verder ontwikkeld door een open en actieve gemeenschap van gemeenten, leveranciers en softwareontwikkelaars en verwelkomt iedereen die wil deelnemen en bijdragen aan het verbeteren van OpenZaak. Leer [hoe aan de slag kunt gaan](https://open-zaak.readthedocs.io/en/latest/installation/index.html#installation-index) en hoe u kunt bijdragen in ons [GitHub repository](https://github.com/open-zaak/open-zaak).
+Indien stuurgroepleden niet informeel tot overeenstemming kunnen komen, wordt de betreffende vraag doorgestuurd naar de stuurgroepvergadering.
 
-Enkele nuttige bronnen om u op weg te helpen:
-* [Hoe een bijdrage te leveren](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md)
-* [Instructie op OpenZaak op uw locale computer of Kubernetes te installeren](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
-* [OpenZaak documentatie](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
-* [OpenZaak Github repository](https://github.com/open-zaak/open-zaak)
-* [Meld u aan om vooraankondigingen van nieuwe software releases te ontvangen.](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
+### Gezamenlijke verantwoordelijkheden
 
-## Voor project- en product managers
+* Onderhouden van de **missie, visie, waarden, strategie, roadmap, branding en scope** van het project
+   * Verzamelen van geplande functies en presenteren in een uniforme weergave
+   * Beheer het merk Demodam
+* **Gemeenschaps- en bestuursaangelegenheden**
+   * Beheersrechten op Demodam-activa zoals bronbronnen
+   * Beslissingen op codebase-niveau nemen
+   * Verfijn de governance indien nodig
+   * Beheer de toegang tot Demodam-middelen zoals hosting en projectkalenders
+   * Omgaan met overtredingen van de gedragscode
+   * Toezicht houden op wijzigingen in licenties en intellectueel eigendom
+* **Conflictoplossing**
+   * Dienen als **escalatieniveau** voor de actiegroepen/werkgroepen
+   * Los geëscaleerde projectbeslissingen op wanneer een verantwoordelijk subteam is geblokkeerd
+   * Problemen in ontwikkeling of conflicten tussen bijdragers oplossen
+* **Technische zaken**
+   * Bepaal en beslis **technische beperkingen en normen** voor de Demodam-omgeving
+   * Geef **technische richting** voor de codebase
+   * Onderhoud een technische **roadmap**, een **architectuur** en **coderingsprincipes**
+   * Beheer en plan **releases**
+   * Toezicht houden op de oplossing en openbaarmaking van **beveiligingsproblemen**
 
-Bent u verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen uw gemeente en wilt u mee helpen vorm te geven aan de toekomstige ontwikkeling van OpenZaak?
+### Leden van het team
+De huidige leden van het stuurteam zijn:
+* [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/) (stuurgroepleider)
+* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (ook [Technisch actieteam](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING. MD#technisch-actie-team) leiden)
+* [Alba Roza](https://www.linkedin.com/in/albaroza) (ook [Communicatie-actieteam](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD# communicatie-actie-team) leiden)
+* [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
+* Vacature: vertegenwoordiger van een overheidsorganisatie
+* Vacature: [User Centricity](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#user-centricity-action-team) teamleider
 
-Dan kunt u op de volgende manieren bijdragen:
+### Manier van werken
+De stuurgroep komt regelmatig bijeen. Hun agenda omvat een herziening van de technische roadmap en kwesties die in een impasse verkeren. Het is niet de bedoeling van de agenda om alle patches te herzien of goed te keuren. Dit gebeurt voornamelijk via het proces dat wordt beschreven in CONTRIBUTING.md. Vergaderingen en hun agenda worden aangekondigd op de [mailinglijst](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) en op [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). De actiepunten en agenda's van de stuurgroep zijn te vinden op het [stuurteam project board](https://github.com/demodam/demodam.org/projects/2).
 
-* Abonneer u op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
-* Kijk naar de uitstaande [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
-* Maak een nieuw [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) aan conform het [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-* Kondig je feature request aan op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
+Geen enkele persoon of organisatie zal een gewone meerderheid van het stuurteam in dienst nemen.
 
-Iedere maand komt de OpenZaak product steering groep bij elkaar om nieuwe feature requests te bespreken en te beslissen welke features verder ontwikkeld worden. Als uw feature request wordt behandeld genomen bent u van harte uitgenodigd om uw feature request nader toe te lichten.
+## Actieteams
 
-Wilt u deelnemen in de product steering group? Of meer weten hoe besluiten in de OpenZaak community genomen worden neem dan [contact](/contact/) met ons op.
+De Demodam-codebase vormt actieteams om specifieke taken op te lossen. Deze kunnen dagelijkse beslissingen nemen om de zaken vooruit te helpen, maar kunnen beslissingen niet negeren

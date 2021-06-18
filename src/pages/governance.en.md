@@ -1,47 +1,92 @@
 ---
 template: "default"
 ---
+# DRAFT: Governance for Demodam
 
-## OpenZaak gebruiken
+## Goals of Demodam
 
-OpenZaak is sinds begin 2020 beschikbaar voor gemeenten en ontwikkelaars in Nederland.
+* **Showcase.** Demodam shows working digital services that municipalities (and possibly other governmental organisations) can re-use.
+* **Collaborate.** On Demodam we learn how we collaborate in the [Common Ground](https://commonground.nl/) ecosystem. This happens both at a systems level (how do components interact?) and at a human level (how do we work together?).
+* **Improve.** Set standards together: when do we say a component is ready for production?
+* **Innovate.** By offering a stable and rich software environment, it becomes easier to develop new digital services.
 
-Wilt u meer weten over hoe u OpenZaak in uw gemeente kunt gaan gebruiken?
+## Demodam principles
 
-* Bekijk [deze OpenZaak demo video](https://player.vimeo.com/video/389842983?app_id=122963) of [OpenZaak presentatie](https://commonground.nl/file/download/54477469/2020-02-14-presentatie-open-zaak-at-live2020pdf)
-* [Installeer OpenZaak op uw lokale computer of cloud  omgeving](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
-* Neem [contact](/contact/)  met ons op voor een (online) demo van OpenZaak.
+* Our community is **welcoming and respectful** as mentioned in our CODE_OF_CONDUCT.md. As a community we want to make it easy for new members of the community to take part, regardless of background and level of knowledge.
+* We are **Transparent and accessible**. Changes to the Demodam organization, Demodam code repositories, and Demodam-related activities (e.g. level, involvement, etc.) are done in public.
+* Ideas and contributions are **accepted according to their merit** and alignment with project objectives, scope, and design principles.
+* Demodam is **open source**.
 
-## Voor ontwikkelaars
+Through codebase stewardship the [Foundation for Public Code](https://publiccode.net/) supports the governance of Demodam, the steering team, and its community.
 
-OpenZaak is een open source API provisioning backend.
+## Join Demodam!
+So, convinced already, are you? Excellent. Please join us! Find out [how you can join and contribute](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD).
 
-OpenZaak implementeert de landelijke API-standaarden voor zaakgericht werken ([ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken)) ontwikkeld in opdracht van de Nederlandse Vereniging van Gemeenten ([VNG Realisatie](https://www.vngrealisatie.nl)).
+## Demodam steering team
 
-Om het meeste uit OpenZaak te halen, moet OpenZaak verbinding maken met andere systemen of componenten. Voornamelijk systemen voor het afhandelen van het proces zoals een app voor een melding openbare ruimte, een processysteem voor het afhandelen van vergunningen of een generiek zaakafhandelcomponent. Voorbeelden van dergelijke systemen zijn MyApp of apps voor MOR-rapporten.
+The Demodam steering team **oversees the overall direction** of Demodam. Any active member of the community can request to become a steering team member by asking the steering team. The steering team will vote on it (simple majority). The steering team strives to be a team in which several perspectives (knowledge, type of organizations) are represented.
 
-OpenZaak bestaat uit een backend (opslag en opvragen) en API (service) provisioning-laag (autorisatie en authenticatie) voor de [ZGW API's](https://github.com/VNG-Realisatie/gemma-zaken).
+If steering team members cannot reach consensus informally, the question at hand will be forwarded to the steering team meeting.
 
-OpenZaak wordt als open source project verder ontwikkeld door een open en actieve gemeenschap van gemeenten, leveranciers en softwareontwikkelaars en verwelkomt iedereen die wil deelnemen en bijdragen aan het verbeteren van OpenZaak. Leer [hoe aan de slag kunt gaan](https://open-zaak.readthedocs.io/en/latest/installation/index.html#installation-index) en hoe u kunt bijdragen in ons [GitHub repository](https://github.com/open-zaak/open-zaak).
+### Joint responsibilities
 
-Enkele nuttige bronnen om u op weg te helpen:
-* [Hoe een bijdrage te leveren](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md)
-* [Instructie op OpenZaak op uw locale computer of Kubernetes te installeren](https://open-zaak.readthedocs.io/en/latest/installation/index.html)
-* [OpenZaak documentatie](https://open-zaak.readthedocs.io/en/latest/introduction/index.html)
-* [OpenZaak Github repository](https://github.com/open-zaak/open-zaak)
-* [Meld u aan om vooraankondigingen van nieuwe software releases te ontvangen.](https://odoo.publiccode.net/survey/start/086e0627-8bc0-4b65-8aa9-f6872aba89d0)
+* Maintaining the **mission, vision, values, strategy, roadmap, branding and scope** of the project
+   * Collecting planned features and presenting them in a unified view
+   * Manage the Demodam brand
+* **Community and governance matters**
+   * Control rights to Demodam assets such as source repositories
+   * Make codebase level decisions
+   * Refine the governance as needed
+   * Control access to Demodam assets such as hosting and project calendars
+   * Handling code of conduct violations
+   * Oversee licensing and intellectual property changes
+* **Conflict resolution**
+   * Serve as an **escalation level** for the action groups / working groups
+   * Resolve escalated project decisions when a sub-team responsible is blocked
+   * Resolve issues in development or conflicts between contributors
+* **Technical matters**
+   * Set and decide **technical constraints and standards** for the Demodam environment
+   * Provide **technical direction** for the codebase
+   * Maintain a technical **roadmap**, an **architecture** and **coding principles**
+   * Manage and plan **releases**
+   * Overseeing the resolution and disclosure of **security** issues
 
-## Voor project- en product managers
+### Team members
+The current steering team members are:
+* [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/)  (steering team lead)
+* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (also [Technical Action Team](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#technical-action-team) lead)
+* [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#communications-action-team) lead)
+* [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
+* Vacancy: representative from a government organization
+* Vacancy: [User Centricity](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#user-centricity-action-team) team lead
 
-Bent u verantwoordelijk voor het beheren en ontwikkelen van burgerzaken binnen uw gemeente en wilt u mee helpen vorm te geven aan de toekomstige ontwikkeling van OpenZaak?
+### Way of working
+The steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda will be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). The action items and agenda's of the steering team can be found on the [steering team project board](https://github.com/demodam/demodam.org/projects/2).
 
-Dan kunt u op de volgende manieren bijdragen:
+No individual or organization will employ a simple majority of the steering team.
 
-* Abonneer u op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
-* Kijk naar de uitstaande [feature request backlog](https://github.com/orgs/open-zaak/projects/2).
-* Maak een nieuw [feature request](https://github.com/open-zaak/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) aan conform het [feature request template](https://github.com/open-zaak/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-* Kondig je feature request aan op de [OpenZaak community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net)
+## Action teams
 
-Iedere maand komt de OpenZaak product steering groep bij elkaar om nieuwe feature requests te bespreken en te beslissen welke features verder ontwikkeld worden. Als uw feature request wordt behandeld genomen bent u van harte uitgenodigd om uw feature request nader toe te lichten.
+The Demodam codebase forms action teams to solve specific tasks. These can make day-to-day decisions to move things forward, but cannot overrule decisions made by the steering team. Each working or action group must be represented in the steering group by at least one person. If a group cannot resolve an issue with consensus in the group, any participant of the group can raise the issue to the steering team.
 
-Wilt u deelnemen in de product steering group? Of meer weten hoe besluiten in de OpenZaak community genomen worden neem dan [contact](/contact/) met ons op.
+## Decision making process
+
+The default decision making process is lazy-consensus. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
+
+When a consensus cannot be found a team member can call for a majority vote on a decision. Every team member has 1 vote, but each organization can be represented by only 1 team member in a vote regardless of how many members from their organization there are on the team.
+
+Many of the day-to-day project maintenance tasks can be done by a lazy consensus model. But the following items must be called to vote:
+
+* Adding a team member (simple majority)
+* Removing a team member (simple majority)
+* Changing the governance rules for non-trivial changes (this document) (simple majority)
+* Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
+* Adding, archiving, or removing sub-projects (simple majority)
+
+Votes related to these items need to be communicated to the steering team and put on the agenda upfront with enough time prior to the meeting where the voting takes place. All decisions shall be documented in a version control system.
+
+## Code of Conduct
+
+Demodam's Code of Conduct is explained in CODE_OF_CONDUCT.md.
+
+If the possible violation involves a team member that member will be recused from voting on the issue.
