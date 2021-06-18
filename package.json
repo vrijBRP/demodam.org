@@ -1,5 +1,5 @@
 {
-  "name": "@demodam/demodam.org/",
+  "name": "@demodam/demodam.org",
   "private": true,
   "version": "0.0.1",
   "dependencies": {
