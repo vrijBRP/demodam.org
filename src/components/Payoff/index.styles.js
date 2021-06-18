@@ -31,24 +31,26 @@ export const StyledImage = styled.div`
 `
 
 export const StyledHeading = styled.h1`
-  color: #ffffff;
+  color: #000000;
   font-size: 44px;
   font-weight: ${(p) => p.theme.tokens.fontWeightBold};
 `
 
 export const StyledParagraph = styled.p`
-  color: #ffffff;
+  color: #000000;
   font-size: 24px;
   font-style: italic;
   line-height: 30px;
 `
 
 export const StyledSubParagraph = styled.p`
-  color: #ffffff;
+  color: #000000;
   font-size: 18px;
   line-height: 30px;
 
+/*
   a {
     color: #ffffff !important;
   }
+  */
 `
