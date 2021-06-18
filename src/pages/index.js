@@ -24,7 +24,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="OpenZaak: Online dienstverlening voor burgers" />
+    <SEO title="Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten." />
     <Background backgroundColor="#178be9">
       <Container>
         <Navigation as="nav" location={location} />
@@ -42,13 +42,13 @@ const IndexPage = ({ location }) => (
       <Section id="over-openzaak">
         <Flex>
           <Box>
-            <p>OpenZaak is productiewaardig API platform die <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">de API standaard voor zaakgericht werken</a> implementeert (de < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). Met OpenZaak wordt het voor gemeenten mogelijk om veilige en betrouwbare diensten aan te kunnen bieden aan haar inwoners en bedrijven. Omdat OpenZaak gebruik maakt van de <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">Zaakgerichtwerken standaard</a> wordt het uitwisselen van gegevens met andere gemeenten en/of applicaties eenvoudiger en veiliger. OpenZaak is open source software. Dat betekent dat iedereen vrij is deze software te hergebruiken of aan te passen aan haar wensen.</p>
+            <p>Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten. Op Demodam.nl kun je straks zien welke Common Ground componenten (bouwstenen) achter die diensten al klaar zijn en hoe ze met elkaar samenwerken. Gemeenten kunnen vervolgens besluiten om zo’n dienst, bijvoorbeeld een applicatie voor online geboorteaangifte, ook in te zetten voor hun inwoners. Ook is het mogelijk om verder te bouwen bovenop wat al beschikbaar is door zowel leveranciers als gemeenten.</p>
           </Box>
         </Flex>
       </Section>
 
       <Section textAlign="center">
-        <iframe title="Demo van het gebruik van OpenZaak" src="https://player.vimeo.com/video/389842983" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jTK-sbee2qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </Section>
 
       <Section>

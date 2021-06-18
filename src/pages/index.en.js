@@ -24,7 +24,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="OpenZaak: Online services for citizens" />
+    <SEO title="Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities." />
     <Background backgroundColor="#178be9">
       <Container>
         <Navigation as="nav" location={location} />
@@ -42,7 +42,7 @@ const IndexPage = ({ location }) => (
       <Section id="about-openzaak">
         <Flex>
           <Box>
-          <p>OpenZaak is a production-ready API platform that implements <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">the Dutch national standard for case-oriented working</a> (also known as the < a href="https://github.com/VNG-Realisatie/gemma-zaken">ZGW-API’s</a>). OpenZaak makes it possible for municipalities to offer safe and reliable online services to its citizens. Because OpenZaak relies on <a href="https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken">the case-oriented working standard</a>, it becomes easier to securely exchange data with other municipalities and / or applications. OpenZaak is open source software. This means that everyone is free to reuse this software or adapt it to their needs.</p>
+          <p>Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities. On Demodam.nl you will soon be able to see which Common Ground components (building blocks) behind those services are ready and how they work together. Municipalities can then decide to use such a service, for example an application for online birth registration, for their residents. It is also possible to build on top of what is already available by both suppliers and municipalities.</p>
           </Box>
         </Flex>
       </Section>
