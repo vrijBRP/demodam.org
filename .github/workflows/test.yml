@@ -2,10 +2,10 @@ name: Test
 on:
   push:
     branches:
-      - develop
+      - '*'
   pull_request:
     branches:
-      - develop
+      - '*'
 
 env:
   CI: "true"
