@@ -2,9 +2,9 @@
 template: "default"
 ---
 
-## Contact
+## TODO: Contact
 
-Samenwerken en OpenZaak gebruiken? Neem dan contact op met:
+@@TODO Voeg informatie toe voor de contact pagina. Hieronder is een kopie van de openzaak website
 
 ### Vertegenwoordigers van OpenZaak kerngroep
 

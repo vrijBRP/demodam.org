@@ -2,7 +2,9 @@
 template: "default"
 ---
 
-## Contact
+## TODO: Contact
+
+@@TODO Please add content for contact page. Below is a copy of the openzaak website
 
 Do you want to join the community and use OpenZaak?
 
