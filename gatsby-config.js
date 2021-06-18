@@ -43,7 +43,7 @@ module.exports = {
         short_name: `demodam`,
         start_url: `/`,
         display: `standalone`,
-        icon: `src/images/openzaaklogo.svg`,
+        icon: `src/images/demodam_logo.svg`,
       },
     },
     `gatsby-plugin-i18n`,

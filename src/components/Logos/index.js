@@ -13,7 +13,7 @@ import kadaster from './images/kadaster.png'
 const Logos = () => (
   <StyledContainer>
 
-    <a href="https://conduction.nl/" target="_blank" rel="noopener noreferrer"><img src={conduction} height="50" alt="Logo conduction" /></a>
+    <a href="https://conduction.nl/" target="_blank" rel="noopener noreferrer"><img src={conduction} height="45" alt="Logo conduction" /></a>
     <a href="https://www.maykinmedia.nl/" target="_blank" rel="noopener noreferrer"><img src={maykin} height="40" alt="Logo Maykin Media B.V." /></a>
 
     <a href="https://www.dimpact.nl" target="_blank" rel="noopener noreferrer"><img src={dimpact} height="40" alt="Logo Vereniging Dimpact" /></a>
