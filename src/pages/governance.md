@@ -21,7 +21,7 @@ template: "default"
 Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het bestuur van Demodam, het stuurteam en zijn gemeenschap.
 
 ## Sluit je aan bij Demodam!
-Dus, al overtuigd, bent u? Uitstekend. Kom alsjeblieft bij ons! Ontdek [hoe u kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD).
+Dus, al overtuigd, bent u? Uitstekend. Kom alsjeblieft bij ons! Ontdek [hoe u kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD).
 
 ## Demodam stuurgroep
 
@@ -55,11 +55,11 @@ Indien stuurgroepleden niet informeel tot overeenstemming kunnen komen, wordt de
 ### Leden van het team
 De huidige leden van het stuurteam zijn:
 * [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/) (stuurgroepleider)
-* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (ook [Technisch actieteam](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING. MD#technisch-actie-team) leiden)
-* [Alba Roza](https://www.linkedin.com/in/albaroza) (ook [Communicatie-actieteam](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD# communicatie-actie-team) leiden)
+* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (ook [Technisch actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING. MD#technisch-actie-team) leiden)
+* [Alba Roza](https://www.linkedin.com/in/albaroza) (ook [Communicatie-actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD# communicatie-actie-team) leiden)
 * [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
 * Vacature: vertegenwoordiger van een overheidsorganisatie
-* Vacature: [User Centricity](https://github.com/demodam/demodam.org/blob/main/CONTRIBUTING.MD#user-centricity-action-team) teamleider
+* Vacature: [User Centricity](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#user-centricity-action-team) teamleider
 
 ### Manier van werken
 De stuurgroep komt regelmatig bijeen. Hun agenda omvat een herziening van de technische roadmap en kwesties die in een impasse verkeren. Het is niet de bedoeling van de agenda om alle patches te herzien of goed te keuren. Dit gebeurt voornamelijk via het proces dat wordt beschreven in CONTRIBUTING.md. Vergaderingen en hun agenda worden aangekondigd op de [mailinglijst](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) en op [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). De actiepunten en agenda's van de stuurgroep zijn te vinden op het [stuurteam project board](https://github.com/demodam/demodam.org/projects/2).
