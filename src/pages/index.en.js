@@ -121,6 +121,25 @@ const IndexPage = ({ location }) => (
     </Background>
     <Container>
       <Timeline>
+
+        <Timeline.Container align="left">
+            <Timeline.Content>
+                <Span fontSize="0.9rem">5 Juli till 9 Juli 2021</Span>
+                <Heading as="h3" fontSize="1.5rem">Demodam hackathon</Heading>
+                <p>Working together on an commonground showcase</p>
+                <p><a href="https://www.meetup.com/nl-NL/Code-For-NL/events/278262253/">Information and registration</a></p>
+            </Timeline.Content>
+        </Timeline.Container>
+
+        <Timeline.Container align="right">
+            <Timeline.Content>
+                <Span fontSize="0.9rem">24 Juni 2021 13:00</Span>
+                <Heading as="h3" fontSize="1.5rem">Demodam hackathon</Heading>
+                <p>Onboarding and planning</p>
+                <p><a href="https://www.meetup.com/nl-NL/Code-For-NL/events/278475015/">Information and registration</a></p>
+            </Timeline.Content>
+        </Timeline.Container>
+
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">June 2021</Span>
