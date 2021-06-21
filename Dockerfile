@@ -26,7 +26,7 @@ RUN touch /var/run/nginx.pid && \
     chown -R appuser /var/cache/nginx
 
 COPY docker/nginx.conf /etc/nginx/nginx.conf
-COPY docker/default.conf /etc/nginx/conf.d/default.conf
+#COPY docker/default.conf /etc/nginx/conf.d/default.conf
 
 COPY --from=build /app/public /usr/share/nginx/html
 
