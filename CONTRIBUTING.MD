@@ -1,16 +1,19 @@
 There are several ways you can participate in Demodam.
 
-## Publish Common Ground components to Demodam
-Demodam is a showcase website for open source components. Please reach out to the Technical action team if you want to publish your components on Demodam.
+## Join our Slack channel
+[Join the Common Ground Slack](https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q) and join the #Demodam channels.
 
 ## Take part in a hackathon
 During hackathons, Demodam is developed according to our goals: showcase, collaborate, improve, innovate. The first hackathon will be at 5-9 July. If you want to take part, please sign up for the [onboarding and planning session for the hackathon](https://www.meetup.com/Code-For-NL/events/278475015/).
 
-## Be active in Github
-Raise an issue, submit a pull request, etc. Be bold!
+## Be active on Github
+Raise an issue, submit a pull request, etc. Be bold! Check out the [issues labeled help wanted](https://github.com/demodam/demodam.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and the [issues labeled good first issue](https://github.com/demodam/demodam.org/labels/good%20first%20issue) to get you started. 
 
 ## Spread the word!
-Feel free to blog, tweet, post about Demodam whenever you like! We're in this together.
+Feel free to blog, tweet, post about Demodam whenever you like! We're in this together. There's always stuff to do. Check out the [Communications board](https://github.com/demodam/demodam.org/projects/1) to see if there's anything you can help out with. Or add to it if you have a good idea.  
+
+## Publish Common Ground components to Demodam
+Demodam is a showcase website for open source components. Please reach out to the Technical action team via Slack or Github if you want to publish your components on Demodam.
 
 ## Take part in an action team
 
