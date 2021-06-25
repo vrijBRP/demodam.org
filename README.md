@@ -22,7 +22,7 @@ For questions: <info@publiccode.net>
 [![Test](https://github.com/demodam/demodam.org/actions/workflows/test.yml/badge.svg)](https://github.com/demodam/demodam.org/actions/workflows/test.yml)
 [![Deploy Demo website](https://github.com/demodam/demodam.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/demodam/demodam.org/actions/workflows/deploy.yml)
 
-The website code is a copy of the [Signalen website repository](https://github.com/Signalen/signalen.org), built by the [authors and contributors](AUTHORS.md) within the Signalen community.
+The website code is a copy of the [Signalen website repository](https://github.com/Signalen/signalen.org), built by the [authors and contributors](AUTHORS.md). 
 
 ### Building, testing and deploying
 
