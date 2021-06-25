@@ -1,6 +1,7 @@
 ---
 template: "default"
 ---
+
 # DRAFT: Governance for Demodam
 
 ## Goals of Demodam
