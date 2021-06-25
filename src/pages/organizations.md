@@ -4,7 +4,7 @@ template: "default"
 
 # [concept] Demodam Organisaties
 
-De volgende organisaties maken momenteel deel uit van het demodam-ecosysteem, als u zich wilt aansluiten bij het Demodam-ecosysteem, lees dan de [meedoen aan Demodam](/join).
+De volgende organisaties maken momenteel deel uit van het demodam-ecosysteem, als u zich wilt aansluiten bij het Demodam-ecosysteem, lees dan de [meedoen aan Demodam](https://demodam.org/join).
 
 |Organisatie | Showcasesite|
 --- | ---
