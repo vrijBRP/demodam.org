@@ -28,9 +28,18 @@ The website code is a copy of the [Signalen website repository](https://github.c
 
 This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure you have [Node](https://nodejs.org/en/) installed on your machine. Then install the dependencies with the `npm install` command. After this you can use the `npm start` to start a local webserver and build/update the site.
 
-The website is automatically deployed with pull request on `develop` using a combination Github actions. The workflow for this is configured in `.github/workflows/deploy.yml`.  A deploy script is added to `package.json` with the line ` "deploy": "gatsby build"` . More info about the implementation or additional configuration options refer to https://github.com/marketplace/actions/gatsby-publish.
+The website is automatically deployed when a push is done to `main` using a combination Github actions. The workflow for this is configured in `.github/workflows/deploy.yml`.  A deploy script is added to `package.json` with the line ` "deploy": "gatsby build"` . More info about the implementation or additional configuration options refer to https://github.com/marketplace/actions/gatsby-publish.
 
-Pull request to the `develop` branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configured in `.github/workflows/ci.yml`
+Pull request to any branch of this repository are automatically tested by building the Gatsby site using Github actions. The workflow for this is configured in `.github/workflows/test.yml`
+
+### Gitflow proces
+When you want to contribute to the website make sure you:
+
+1. Clone 'main'
+2. Create a branch to work on
+3. Push changes to your branch
+4. Create a pull request against 'main'
+
 
 ### How to add a news article to the website
 You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: `YYYY-MM-DD-filename.en.md`
