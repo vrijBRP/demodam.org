@@ -11,11 +11,6 @@
       "partiallyActive": false
     },
     {
-      "title": "Ambassadeurs",
-      "link": "/ambassadors",
-      "partiallyActive": true
-    },
-    {
       "title": "Governance",
       "link": "/governance",
       "partiallyActive": true
@@ -36,11 +31,6 @@
       "title": "Organizations",
       "link": "/en/organizations",
       "partiallyActive": false
-    },
-    {
-      "title": "Ambassadors",
-      "link": "/en/ambassadors",
-      "partiallyActive": true
     },
     {
       "title": "Governance",
