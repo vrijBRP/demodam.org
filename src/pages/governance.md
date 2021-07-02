@@ -13,21 +13,21 @@ template: "default"
 
 ## Demodam-principes
 
-* Onze community is **gastvrij en respectvol** zoals vermeld in onze CODE_OF_CONDUCT.md. Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
-* Wij zijn **Transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten (bijvoorbeeld niveau, betrokkenheid, etc.) worden openbaar gedaan.
-* Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen, reikwijdte en ontwerpprincipes.
+* Onze community is **gastvrij en respectvol** zoals vermeld in onze [code of conduct](/CODE_OF_CONDUCT.md). Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
+* We zijn **transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten worden openbaar gedaan.
+* Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen en ontwerpprincipes.
 * Demodam is **open source**.
 
-Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het bestuur van Demodam, het stuurteam en zijn gemeenschap.
+Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het bestuur van Demodam, de teams en de community.
 
 ## Sluit je aan bij Demodam!
-Dus, al overtuigd, bent u? Uitstekend. Kom alsjeblieft bij ons! Ontdek [hoe u kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD).
+Al overtuigd? Mooi! Lees [hoe je kunt deelnemen en bijdragen](https://demodam.org/join).
 
-## Demodam stuurgroep
+## Demodam stuurteam
 
 Het stuurteam van Demodam **houdt toezicht op de algehele richting** van Demodam. Elk actief lid van de community kan een verzoek indienen om lid van het stuurteam te worden door het stuurteam te vragen. De stuurgroep stemt hierover (gewone meerderheid). De stuurgroep streeft ernaar een team te zijn waarin meerdere perspectieven (kennis, type organisaties) vertegenwoordigd zijn.
 
-Indien stuurgroepleden niet informeel tot overeenstemming kunnen komen, wordt de betreffende vraag doorgestuurd naar de stuurgroepvergadering.
+Indien stuurteamleden niet informeel tot overeenstemming kunnen komen, wordt de betreffende vraag doorgestuurd naar de stuurgroepvergadering.
 
 ### Gezamenlijke verantwoordelijkheden
 
