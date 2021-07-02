@@ -1,6 +1,11 @@
 {
   "nl": [
     {
+      "title": "Home",
+      "link": "/",
+      "partiallyActive": true
+    },
+    {
       "title": "Sluit je aan",
       "link": "/join",
       "partiallyActive": true
@@ -22,6 +27,11 @@
     }
   ],
   "en": [ 
+    {
+      "title": "Home",
+      "link": "/",
+      "partiallyActive": true
+    },
     {
       "title": "Join Demodam",
       "link": "/en/join",
