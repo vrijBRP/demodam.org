@@ -2,7 +2,7 @@
 template: "default"
 ---
 
-# ONTWERP: Governance voor Demodam
+# CONCEPT: Governance voor Demodam
 
 ## Doelen van Demodam
 
