@@ -8,6 +8,6 @@ template: "default"
 
 - List item 1
 - lsit item 2
-- list item 3
+- Chat along on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4).
 
 
