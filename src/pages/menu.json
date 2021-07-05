@@ -7,7 +7,7 @@
     },
     {
       "title": "Sluit je aan",
-      "link": "/join",
+      "link": "/contributing",
       "partiallyActive": true
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "title": "Join Demodam",
-      "link": "/en/join",
+      "link": "/en/contributing",
       "partiallyActive": true
     },
     {
