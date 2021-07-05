@@ -4,7 +4,7 @@ There are several ways you can participate in Demodam.
 [Join the Common Ground Slack](https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q) and join the #Demodam channels.
 
 ## Take part in a hackathon
-During hackathons, Demodam is developed according to our goals: showcase, collaborate, improve, innovate. The first hackathon will be at 5-9 July. If you want to take part, please sign up for the [onboarding and planning session for the hackathon](https://www.meetup.com/Code-For-NL/events/278475015/).
+During hackathons, Demodam is developed according to our goals: showcase, collaborate, improve, innovate. The first hackathon will be at 5-9 July. If you want to take part, please see the [onboarding and planning document for the hackathon](https://docs.google.com/presentation/d/1ueLpnCIA06f05uuSTop8DU9olLb0M34iR_HrjsebRfI/edit#slide=id.p).
 
 ## Be active on Github
 Raise an issue, submit a pull request, etc. Be bold! Check out the [issues labeled help wanted](https://github.com/demodam/demodam.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and the [issues labeled good first issue](https://github.com/demodam/demodam.org/labels/good%20first%20issue) to get you started. 

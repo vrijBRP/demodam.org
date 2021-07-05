@@ -25,7 +25,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten." />
-    <Background backgroundColor="#cbce1c">
+    <Background backgroundColor="#eeefb3">
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
@@ -43,7 +43,7 @@ const IndexPage = ({ location }) => (
         <Flex>
           <Box>
             <p>Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten. Op Demodam.nl kun je straks zien welke Common Ground componenten (bouwstenen) achter die diensten al klaar zijn en hoe ze met elkaar samenwerken. Gemeenten kunnen vervolgens besluiten om zo’n dienst, bijvoorbeeld een applicatie voor online geboorteaangifte, ook in te zetten voor hun inwoners. Ook is het mogelijk om verder te bouwen bovenop wat al beschikbaar is door zowel leveranciers als gemeenten.
-            NB: Deze website is in aanbouw.</p>
+            </p>
           </Box>
         </Flex>
       </Section>
@@ -55,11 +55,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document" />
+            <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
           </Box>
           <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2>Op Demodam laten we zien wat er beschikbaar is</h2>
+            <p>Op Demodam.nl kun je zien hoe digitale diensten werken voor burgers en ambtenaren. Het maakt tastbaar wat je met Common Ground kunt.</p>
           </Box>
         </Flex>
       </Section>
@@ -67,8 +67,8 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 2</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2>Demodam is een omgeving voor samenwerken</h2>
+            <p>Overheden en hun leveranciers kunnen elkaar makkelijker vinden. Het helpt ons om onze werkwijzen op elkaar af te stemmen en het maakt het makkelijker om componenten met elkaar te laten samenwerken. Hierbij wordt je even niet gehinderd door legacy systemen en ontwikkelagenda’s van gemeenten, zodat je makkelijker proof of concepts kunt maken. We werken hierbij overigens samen met NL Design System, zodat een burger een consistente gebruikerservaring krijgt, ook al bestaat een dienst uit componenten die door verschillende leveranciers gebouwd zijn.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist" />
@@ -79,11 +79,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={2/5}>
-            <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
+            <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document" />
           </Box>
           <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 3</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2>Demodam helpt om Common Ground te verbeteren.</h2>
+            <p>We stellen samen vast wat de minimale eisen aan componenten zijn op bijvoorbeeld het gebied van beveiliging, gebruiksvriendelijkheid en (code) standaarden. We leren daarbij van elkaar wat de best practises zijn. Het doel is uiteindelijk dat alle componenten op Demodam te zien zijn in een app store vergelijkbaar met die op je mobiele telefoon, waarbij je met een klik componenten en applicaties kunt installeren. Uiteraard moet je daarbij blind kunnen vertrouwen op de kwaliteit van de componenten. Daarmee verbetert Demodam de kwaliteit van het achterliggende Common Ground ecosysteem. Met name gebruiksvriendelijkheid en veiligheid hebben daarbij onze bijzondere aandacht.</p>
           </Box>
         </Flex>
       </Section>
@@ -91,23 +91,11 @@ const IndexPage = ({ location }) => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 4</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2>Met Demodam kun je innoveren</h2>
+            <p>Juist doordat er straks al een stevige basis staat, kun je daar makkelijk op voortborduren. Ter illustratie: stel je wilt een dienst ontwikkelen over verschillende overheden heen, bijvoorbeeld een klantreis waarbij je als burger in een vloeiend proces zowel je geboorteaangifte kunt doen (bij je gemeente) als kinderbijslag kunt aanvragen (bij de Belastingdienst). Dat is nu technisch en organisatorisch nog heel lastig, maar met Demodam staan er straks al een zaaksysteem, een BRP systeem en NLX voor je klaar, zodat je gelijk een vliegende start kunt maken.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
-          </Box>
-        </Flex>
-      </Section>
-
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 5</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
@@ -122,6 +110,25 @@ const IndexPage = ({ location }) => (
     </Background>
     <Container>
       <Timeline>
+
+        <Timeline.Container align="left">
+            <Timeline.Content>
+                <Span fontSize="0.9rem">5 Juli tot 9 Juli 2021</Span>
+                <Heading as="h3" fontSize="1.5rem">Demodam hackathon</Heading>
+                <p>Samen werken aan een commonground etalage</p>
+                <p><a href="https://www.meetup.com/nl-NL/Code-For-NL/events/278262253/">Informatie en inschrijven</a></p>
+            </Timeline.Content>
+        </Timeline.Container>
+
+        <Timeline.Container align="right">
+            <Timeline.Content>
+                <Span fontSize="0.9rem">24 Juni 2021 13:00</Span>
+                <Heading as="h3" fontSize="1.5rem">Demodam hackathon</Heading>
+                <p>Onboarding en planning</p>
+                <p><a href="https://www.meetup.com/nl-NL/Code-For-NL/events/278475015/">Informatie en inschrijven</a></p>
+            </Timeline.Content>
+        </Timeline.Container>
+
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Juni 2021</Span>
@@ -129,6 +136,7 @@ const IndexPage = ({ location }) => (
             <p>Lancering van Demodam</p>
           </Timeline.Content>
         </Timeline.Container>
+
       </Timeline>
     </Container>
     <Footer />
