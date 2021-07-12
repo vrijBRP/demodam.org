@@ -11,6 +11,11 @@
       "partiallyActive": true
     },
     {
+      "title": "Hackathons",
+      "link": "/hackathons",
+      "partiallyActive": true
+    },
+    {
       "title": "Organisaties",
       "link": "/organizations",
       "partiallyActive": false
@@ -35,6 +40,11 @@
     {
       "title": "Join Demodam",
       "link": "/en/contributing",
+      "partiallyActive": true
+    },
+    {
+      "title": "Hackathons",
+      "link": "/en/hackathons",
       "partiallyActive": true
     },
     {
