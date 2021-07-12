@@ -6,10 +6,10 @@ template: "default"
 
 ## Doelen van Demodam
 
-* **Showcase.** Demodam toont werkende digitale diensten die gemeenten (en mogelijk andere overheidsorganisaties) kunnen hergebruiken.
+* **Laten zien.** Demodam toont werkende digitale diensten die gemeenten (en mogelijk andere overheidsorganisaties) kunnen hergebruiken.
 * **Samenwerken.** Op Demodam leren we hoe we samenwerken in het [Common Ground](https://commonground.nl/) ecosysteem. Dit gebeurt zowel op systeemniveau (hoe werken componenten op elkaar in?) als op menselijk niveau (hoe werken we samen?).
 * **Verbeteren.** Samen de norm stellen: wanneer zeggen we dat een onderdeel productierijp is?
-* **Innoveer.** Door een stabiele en rijke softwareomgeving aan te bieden, wordt het makkelijker om nieuwe digitale diensten te ontwikkelen.
+* **Innoveren.** Door een stabiele en rijke softwareomgeving aan te bieden, wordt het makkelijker om nieuwe digitale diensten te ontwikkelen.
 
 ## Demodam-principes
 
