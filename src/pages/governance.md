@@ -8,20 +8,20 @@ template: "default"
 
 * **Laten zien.** Demodam toont werkende digitale diensten die gemeenten (en mogelijk andere overheidsorganisaties) kunnen hergebruiken.
 * **Samenwerken.** Op Demodam leren we hoe we samenwerken in het [Common Ground](https://commonground.nl/) ecosysteem. Dit gebeurt zowel op systeemniveau (hoe werken componenten op elkaar in?) als op menselijk niveau (hoe werken we samen?).
-* **Verbeteren.** Samen de norm stellen: wanneer zeggen we dat een onderdeel productierijp is?
+* **Verbeteren.** Samen bepalen we wanneer een onderdeel productierijp is.
 * **Innoveren.** Door een stabiele en rijke softwareomgeving aan te bieden, wordt het makkelijker om nieuwe digitale diensten te ontwikkelen.
 
 ## Demodam-principes
 
 * Onze community is **gastvrij en respectvol** zoals vermeld in onze CODE_OF_CONDUCT.md. Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
-* Wij zijn **Transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten (bijvoorbeeld niveau, betrokkenheid, etc.) worden openbaar gedaan.
-* Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen, reikwijdte en ontwerpprincipes.
+* Wij zijn **Transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten worden openbaar gedaan.
+* Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen en ontwerpprincipes.
 * Demodam is **open source**.
 
 Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het bestuur van Demodam, het stuurteam en zijn gemeenschap.
 
 ## Sluit je aan bij Demodam!
-Dus, al overtuigd, bent u? Uitstekend. Kom alsjeblieft bij ons! Ontdek [hoe u kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD).
+Al overtuigd? Mooi! Ontdek [hoe je kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD).
 
 ## Demodam stuurgroep
 
