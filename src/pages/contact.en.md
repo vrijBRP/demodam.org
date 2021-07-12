@@ -4,9 +4,9 @@ template: "default"
 
 # Contact
 
-## Representatives of the Demodam core group
+## Representatives of the Demodam core team
 
-The current steering team members are:
+The current core team members are:
 * [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/)  (steering team lead)
 * [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (also [Technical Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#technical-action-team) lead)
 * [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#communications-action-team) lead) 
