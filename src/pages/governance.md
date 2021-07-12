@@ -4,6 +4,8 @@ template: "default"
 
 # CONCEPT: Governance voor Demodam
 
+Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worden. De eerste versie van de governance wordt vastgesteld na de eerste keer dat het kernteam bijeen komt. 
+
 ## Doelen van Demodam
 
 * **Laten zien.** Demodam toont werkende digitale diensten die gemeenten (en mogelijk andere overheidsorganisaties) kunnen hergebruiken.
